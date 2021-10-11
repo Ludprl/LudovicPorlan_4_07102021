@@ -703,6 +703,12 @@ p {
     font-size: 16px;
     font-weight: 700;
 }
+.cta-hero label {
+    margin-bottom: 0px;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    font-weight: 700;
+}
 
 .social {
     max-width: 400px;

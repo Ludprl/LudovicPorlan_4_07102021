@@ -294,6 +294,9 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
+.navbar a {
+    font-weight: bold;
+}
 
 .navbar-brand {
     height: auto;
